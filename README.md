@@ -1,1 +1,1 @@
-# edgeai-playground
+# Edge AI Playground
